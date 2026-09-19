@@ -62,12 +62,8 @@ My name is **Chaima Fejjari**. I'm a passionate Software Engineer specializing i
 
 <p align="left">
   <a href="https://www.linkedin.com/in/chaima-fejjari-a127b9235" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45" />
   </a>
-  <!-- Si tu as un portfolio, décommente la ligne ci-dessous et mets ton lien -->
-  <!-- <a href="https://ton-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a> -->
 </p>
 
 <p align="center">
