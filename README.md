@@ -63,6 +63,14 @@ My name is **Chaima Fejjari**. I'm a passionate Software Engineer specializing i
 <p align="left">
   <a href="https://www.linkedin.com/in/chaima-fejjari-a127b9235" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45" />
+ <!-- Instagram -->
+  <a href="https://www.instagram.com/chaima.fejjari/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" width="45" height="45" />
+  </a>
+  
+  <!-- Gmail -->
+  <a href="mailto:ton.email@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Gmail" width="45" height="45" />
   </a>
 </p>
 
