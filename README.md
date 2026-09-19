@@ -52,16 +52,20 @@ My name is **Chaima Fejjari**. I'm a passionate Software Engineer specializing i
 </p>
 ---
 
+---
+
 ### 📊 My GitHub Stats (Animated)
 
 <p align="center">
-  <!-- Carte de statistiques principale (Couleurs vives) -->
+  <!-- Carte de statistiques principale (Lien officiel mis à jour) -->
   <img src="https://github-readme-stats.vercel.app/api?username=chaimafj&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Chaima's GitHub Stats" />
   <br/>
-  <!-- Carte de série (Streak) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaimafj&theme=radical&hide_border=true" alt="Chaima's GitHub Streak" />
+  
+  <!-- Carte de série (Streak) - Lien alternatif fiable -->
+  <img src="https://streak-stats.demolab.com/?user=chaimafj&theme=radical&hide_border=true" alt="Chaima's GitHub Streak" />
   <br/>
-  <!-- Langages les plus utilisés (Version corrigée) -->
+  
+  <!-- Langages les plus utilisés (Lien officiel mis à jour) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaimafj&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
@@ -70,16 +74,9 @@ My name is **Chaima Fejjari**. I'm a passionate Software Engineer specializing i
 ### 🐍 My Contribution Graph (Animation)
 
 <p align="center">
-  <!-- Animation du serpent qui mange les contributions -->
+  <!-- Animation du serpent (Nécessite d'activer l'Action GitHub) -->
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
-<p align="center">
-  <!-- Graphique d'activité animé (Alternative) -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=chaimafj&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
----
 
 ---
 
