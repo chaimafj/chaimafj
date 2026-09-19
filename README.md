@@ -56,7 +56,7 @@ My name is **Chaima Fejjari**. I'm a passionate Software Engineer specializing i
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chaimafj&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
----
+
 ### 💬 Connect with me
 
 <p align="left">
@@ -75,14 +75,6 @@ My name is **Chaima Fejjari**. I'm a passionate Software Engineer specializing i
     <img src="https://cdn.simpleicons.org/gmail/D14836" alt="Gmail" width="35" height="35" />
   </a>
 </p>
-### 📊 GitHub Analytics
-
-
-<p align="center">
-  <!-- Carte 3 : Streak (Fonctionne déjà) -->
-  <img src="https://streak-stats.demolab.com/?user=chaimafj&theme=tokyonight&hide_border=true" alt="Chaima's GitHub Streak" />
-</p>
-
 
 ### 🐍 Contribution Snake
 
