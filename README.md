@@ -17,7 +17,9 @@ My name is **Chaima Fejjari**. I'm a passionate Software Engineer specializing i
 - 🎯 Goals: To become a Fullstack Expert capable of designing end-to-end solutions with great user experience.
 - 📫 How to reach me: **[ton-email@gmail.com]**
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chaimafj/chaimafj/main/Animation.gif" alt="Coding Animation" width="500" />
+</p>
 
 ### 🛠️ I code with
 
