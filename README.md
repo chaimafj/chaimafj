@@ -54,33 +54,33 @@ My name is **Chaima Fejjari**. I'm a passionate Software Engineer specializing i
 
 ---
 
-### 📊 My GitHub Stats (Animated)
+### 📊 GitHub Analytics
 
 <p align="center">
-  <!-- Carte de statistiques principale (Lien officiel mis à jour) -->
+  <!-- Stats principales -->
   <img src="https://github-readme-stats.vercel.app/api?username=chaimafj&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Chaima's GitHub Stats" />
   <br/>
   
-  <!-- Carte de série (Streak) - Lien alternatif fiable -->
+  <!-- Streak Stats (Lien mis à jour) -->
   <img src="https://streak-stats.demolab.com/?user=chaimafj&theme=radical&hide_border=true" alt="Chaima's GitHub Streak" />
   <br/>
   
-  <!-- Langages les plus utilisés (Lien officiel mis à jour) -->
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaimafj&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
 
-### 🐍 My Contribution Graph (Animation)
+### 🐍 Contribution Snake
 
 <p align="center">
-  <!-- Animation du serpent (Nécessite d'activer l'Action GitHub) -->
+  <!-- Animation du serpent (nécessite d'activer l'action GitHub) -->
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
-### 🤝 Connect with me
+### 💬 Connect with me
 
 <p align="left">
   <!-- LinkedIn -->
