@@ -73,11 +73,11 @@ My name is **Chaima Fejjari**. I'm a passionate Software Engineer specializing i
   <a href="https://www.linkedin.com/in/chaima-fejjari-a127b9235" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32" />
   </a>
-  <p align="left">
+  
   <!-- Facebook -->
-<a href="https://www.facebook.com/chaima.benamara.796" target="_blank">
-  <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" width="32" height="32" />
-</a>
+  <a href="https://www.facebook.com/chaima.benamara.796" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" width="32" height="32" />
+  </a>
   
   <!-- Instagram -->
   <a href="https://www.instagram.com/chaima.fejjari/" target="_blank">
