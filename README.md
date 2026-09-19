@@ -1,6 +1,13 @@
+<!-- 1. L'image de coding -->
 <p align="center">
-  <!-- Ligne 1 : Hello there ! -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hello+there+!;I'am+Chaima;Software+Engineer" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/chaimafj/chaimafj/main/Animation.gif" alt="Coding Animation" width="450" />
+</p>
+
+<!-- 2. Le texte animé (Version corrigée) -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=600&lines=Hello+There+!;I'am+Chaima;Software+Engineer" alt="Typing SVG" />
+  </a>
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/chaimafj/chaimafj/main/Animation.gif" alt="Coding Animation" width="500" />
