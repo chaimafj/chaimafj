@@ -1,10 +1,11 @@
-<h1 align="center">Hey 👋 What's up? I'm Chaima</h1>
-
 <p align="center">
-  <em>Software Engineer from Tunisia 🇹🇳</em>
+  <!-- Ligne 1 : Hello there ! -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hello+there+!;I'am+Chaima;Software+Engineer" alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chaimafj/chaimafj/main/Animation.gif" alt="Coding Animation" width="500" />
 </p>
 
----
 
 ### 👩‍💻 About me
 
@@ -17,9 +18,6 @@ My name is **Chaima Fejjari**. I'm a passionate Software Engineer specializing i
 - 🎯 Goals: To become a Fullstack Expert capable of designing end-to-end solutions with great user experience.
 - 📫 How to reach me: **[ton-email@gmail.com]**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chaimafj/chaimafj/main/Animation.gif" alt="Coding Animation" width="500" />
-</p>
 
 ### 🛠️ I code with
 
