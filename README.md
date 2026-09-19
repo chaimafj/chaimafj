@@ -33,13 +33,14 @@ My name is **Chaima Fejjari**. I'm a passionate Software Engineer specializing i
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45" />
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45" />
   
   <!-- Base de données & Outils -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45" />
@@ -49,17 +50,19 @@ My name is **Chaima Fejjari**. I'm a passionate Software Engineer specializing i
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chaimafj&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+---
+
 ### 📊 My GitHub Stats (Animated)
 
 <p align="center">
-  <!-- Carte de statistiques animée (Couleurs vives) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=chaimafj&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Chaima's GitHub Stats" />
+  <!-- Carte de statistiques principale (Couleurs vives) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=chaimafj&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Chaima's GitHub Stats" />
   <br/>
-  <!-- Carte de série (Streak) animée -->
+  <!-- Carte de série (Streak) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaimafj&theme=radical&hide_border=true" alt="Chaima's GitHub Streak" />
   <br/>
-  <!-- Langages les plus utilisés -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaimafj&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <!-- Langages les plus utilisés (Version corrigée) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaimafj&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
@@ -70,6 +73,13 @@ My name is **Chaima Fejjari**. I'm a passionate Software Engineer specializing i
   <!-- Animation du serpent qui mange les contributions -->
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
+<p align="center">
+  <!-- Graphique d'activité animé (Alternative) -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=chaimafj&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
 
 ---
 
