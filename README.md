@@ -53,6 +53,15 @@ My name is **Chaima Fejjari**. I'm a passionate Software Engineer specializing i
 </p>
 
 ---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <!-- Animation du serpent (nécessite d'activer l'action GitHub) -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chaimafj&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
@@ -66,7 +75,7 @@ My name is **Chaima Fejjari**. I'm a passionate Software Engineer specializing i
   </a>
   
   <!-- Instagram -->
-  <a href="https://www.instagram.com/chaima.fejjari/" target="">
+  <a href="https://www.instagram.com/chaima.fejjari/" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="32" height="32" />
   </a>
   
@@ -76,14 +85,7 @@ My name is **Chaima Fejjari**. I'm a passionate Software Engineer specializing i
   </a>
 </p>
 
-### 🐍 Contribution Snake
 
-<p align="center">
-  <!-- Animation du serpent (nécessite d'activer l'action GitHub) -->
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
 
 
 
