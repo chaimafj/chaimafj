@@ -2,13 +2,13 @@
 <!-- 2. Le texte animé (Version corrigée) -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=600&lines=Hello+There+!;I'am+Chaima;Software+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=600&lines=Hello+There+!+👋;I'am+Chaima;Software+Engineer;Problem+Solve" alt="Typing SVG" />
   </a>
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/chaimafj/chaimafj/main/Animation.gif" alt="Coding Animation" width="500" />
 </p>
-
+---
 
 ### 👩‍💻 About me
 
