@@ -6,6 +6,8 @@
   </a>
 </p>
 
+---
+
 <!-- 3. L'image de coding -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/chaimafj/chaimafj/main/Animation.gif" alt="Coding Animation" width="500" />
@@ -22,7 +24,7 @@ My name is **Chaima Fejjari**. I'm a passionate Software Engineer specializing i
 - 🐍 I also use **Python** for scripting and data-related tasks.
 - 🌱 I’m currently learning **[Microservices, Docker, AWS, ou toute autre techno que tu apprends]**.
 - 🎯 Goals: To become a Fullstack Expert capable of designing end-to-end solutions with great user experience.
-- 📫 How to reach me: **[ton-email@gmail.com]**
+- 📫 How to reach me: **[fejjarichaima@gmail.com]**
 
 
 ### 🛠️ I code with
