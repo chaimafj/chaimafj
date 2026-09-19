@@ -71,22 +71,22 @@ My name is **Chaima Fejjari**. I'm a passionate Software Engineer specializing i
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/chaima-fejjari-a127b9235" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="28" height="28" />
   </a>
   
   <!-- Facebook -->
   <a href="https://www.facebook.com/chaima.benamara.796" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" width="32" height="32" />
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" width="28" height="28" />
   </a>
   
   <!-- Instagram -->
   <a href="https://www.instagram.com/chaima.fejjari/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="32" height="32" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="28" height="28" />
   </a>
   
   <!-- Gmail -->
   <a href="mailto:ton.email@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/D14836" alt="Gmail" width="32" height="32" />
+    <img src="https://cdn.simpleicons.org/gmail/D14836" alt="Gmail" width="28" height="28" />
   </a>
 </p>
 
