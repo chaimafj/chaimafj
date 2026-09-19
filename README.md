@@ -46,7 +46,9 @@ My name is **Chaima Fejjari**. I'm a passionate Software Engineer specializing i
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chaimafj&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 ### 📊 My GitHub Stats (Animated)
 
 <p align="center">
