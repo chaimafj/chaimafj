@@ -89,6 +89,6 @@ My name is **Chaima Fejjari**. I'm a passionate Software Engineer specializing i
 
 
 
-<p align="center">
+<p align="left">
   <i>⭐️ From <a href="https://github.com/chaimafj">chaimafj</a></i>
 </p>
