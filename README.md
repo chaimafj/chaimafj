@@ -1,7 +1,3 @@
-<!-- 1. L'image de coding -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chaimafj/chaimafj/main/Animation.gif" alt="Coding Animation" width="450" />
-</p>
 
 <!-- 2. Le texte animé (Version corrigée) -->
 <p align="center">
