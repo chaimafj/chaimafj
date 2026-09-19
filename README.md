@@ -56,36 +56,7 @@ My name is **Chaima Fejjari**. I'm a passionate Software Engineer specializing i
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chaimafj&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <!-- Carte 1 : Stats principales (Lien alternatif fiable) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=chaimafj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&v=2" alt="Chaima's GitHub Stats" height="180" />
-  
-  <!-- Carte 2 : Langages (Lien alternatif fiable) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaimafj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=2" alt="Top Languages" height="180" />
-</p>
-
-<p align="center">
-  <!-- Carte 3 : Streak (Fonctionne déjà) -->
-  <img src="https://streak-stats.demolab.com/?user=chaimafj&theme=tokyonight&hide_border=true" alt="Chaima's GitHub Streak" />
-</p>
-
-<p align="center">
-  <!-- Carte 4 : Graphique d'activité (Lien alternatif) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaimafj&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <!-- Animation du serpent (nécessite d'activer l'action GitHub) -->
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
 ---
-
 ### 💬 Connect with me
 
 <p align="left">
@@ -96,14 +67,33 @@ My name is **Chaima Fejjari**. I'm a passionate Software Engineer specializing i
   
   <!-- Instagram -->
   <a href="https://www.instagram.com/chaima.fejjari/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="45" height="45" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="35" height="35" />
   </a>
   
   <!-- Gmail -->
   <a href="mailto:ton.email@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/D14836" alt="Gmail" width="45" height="45" />
+    <img src="https://cdn.simpleicons.org/gmail/D14836" alt="Gmail" width="35" height="35" />
   </a>
 </p>
+### 📊 GitHub Analytics
+
+
+<p align="center">
+  <!-- Carte 3 : Streak (Fonctionne déjà) -->
+  <img src="https://streak-stats.demolab.com/?user=chaimafj&theme=tokyonight&hide_border=true" alt="Chaima's GitHub Streak" />
+</p>
+
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <!-- Animation du serpent (nécessite d'activer l'action GitHub) -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+
 
 <p align="center">
   <i>⭐️ From <a href="https://github.com/chaimafj">chaimafj</a></i>
