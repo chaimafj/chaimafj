@@ -22,7 +22,7 @@ My name is **Chaima Fejjari**. I'm a passionate Software Engineer specializing i
 - 🚀 Passionate about designing scalable architectures and writing clean, maintainable code.
 - 💻 I focus on **Java / Spring Boot** for backend and **Angular / React** for frontend.
 - 🐍 I also use **Python** for scripting and data-related tasks.
-- 🌱 I’m currently learning **[Microservices, Docker, AWS, ou toute autre techno que tu apprends]**.
+- 🌱 I’m currently learning **[Microservices, Docker, AWS,..]**.
 - 🎯 Goals: To become a Fullstack Expert capable of designing end-to-end solutions with great user experience.
 - 📫 How to reach me: **[fejjarichaima@gmail.com]**
 
